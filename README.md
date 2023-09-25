@@ -32,8 +32,8 @@ This repository contains mostly about the metrics which are used in the Natural 
 26. [Entropy](./metrics/entropy.md)Entropy
 27. [Kullback-Leibler divergence (KL divergence)](./metrics/entropy.md)
 28. [Jensen-Shannon divergence](./metrics/jensen_shannon.md)Jensen-Shannon divergence
-32. [Edit distance](./metrics/precision.md)Edit distance (Levenshtein distance)
-33. [Perplexity](./metrics/precision.md)Edit similarity (Jaro-Winkler similarity)
+32. [Edit distance (Levenshtein distance)](./metrics/edit_distance.md)
+33. [Edit similarity (Jaro-Winkler similarity)](./metrics/edit_similarity.md)
 34. Language modeling evaluation (e.g., PPL, BPC)
 37. Dependency parsing accuracy
 38. Chunking F1-Score
