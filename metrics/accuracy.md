@@ -4,3 +4,9 @@
 The formula is as follows :
 
 $$ \text{Accuracy} = \frac{\text{Number of Correct Predictions}}{\text{Total Number of Predictions}} $$
+
+Limitations :
+
+TODO:
+   - Limitations
+   - Give example

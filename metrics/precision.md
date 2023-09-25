@@ -8,3 +8,8 @@ In this formula:
 
 - **True Positives (TP)** are the number of instances that were correctly predicted as positive by the model.
 - **False Positives (FP)** are the number of instances that were incorrectly predicted as positive when they were actually negative.
+
+
+TODO:
+   - Limitations
+   - Give example

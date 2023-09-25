@@ -2,9 +2,16 @@
 
 Recall is defined as:
 
+
 \[ \text{Recall} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}} \]
 
 In this formula:
 
 - **True Positives (TP)** are the number of instances that were correctly predicted as positive by the model.
 - **False Negatives (FN)** are the number of instances that were incorrectly predicted as negative when they were actually positive.
+
+TODO:
+   - Limitations
+   - Give example
+
+Recall (R) = \( \frac{TP}{TP + FN} \)
