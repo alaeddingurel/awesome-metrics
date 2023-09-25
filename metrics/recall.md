@@ -4,6 +4,7 @@ Recall is defined as:
 
 
 $$\text{Recall} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}}$$
+Recall (R) = $\( \frac{TP}{TP + FN} \)$
 
 In this formula:
 
